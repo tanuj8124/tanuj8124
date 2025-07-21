@@ -75,10 +75,68 @@ const backend = {
 
 ## 🌟 Featured Projects
 
+### 🔬 Dr.Crop - AI-Powered Crop Disease Detection
+<div align="left">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" align="right"/>
+  
+  **🚀 Tech Stack:** `Google Gemini-1.5 Pro` `React TypeScript` `Google Cloud` `Generative AI`
+  
+  ✨ **What makes it special:**
+  - 🎯 **97% accuracy** in disease detection using advanced AI
+  - ☁️ **Serverless architecture** with 100% uptime on Google Cloud
+  - 📱 **Responsive design** built with React TypeScript
+  - 🌱 Provides **disease symptoms & cure recommendations**
+  - 📊 Reached **100+ users within 24 hours** of launch
+  
+  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C851?style=for-the-badge)](https://your-live-link) [![GitHub](https://img.shields.io/badge/📁_Source_Code-333?style=for-the-badge&logo=github)](https://your-github-link)
+</div>
+
+---
+
+### 💧 BHUJAL - Groundwater Management System
+<div align="left">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="80" align="right"/>
+  
+  **🚀 Tech Stack:** `Python` `Machine Learning` `React` `MongoDB` `RESTful APIs`
+  
+  ✨ **Impact & Features:**
+  - 👥 **500+ active users** managing groundwater resources
+  - 🤖 **Automated forecasting** eliminating 100% manual work
+  - 🗺️ **Interactive maps** with 1,000+ water resource locations
+  - 📈 **25% improvement** in groundwater management efficiency
+  - 🔄 **Real-time data processing** from custom hardware sensors
+  
+  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-2196F3?style=for-the-badge)](https://your-live-link) [![GitHub](https://img.shields.io/badge/📁_Source_Code-333?style=for-the-badge&logo=github)](https://your-github-link)
+</div>
+
+---
+
+### 💼 PGKRM Job Portal - Smart Recruitment Platform
+<div align="left">
+  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" align="right"/>
+  
+  **🚀 Tech Stack:** `MERN Stack` `MongoDB` `Express.js` `React.js` `Node.js`
+  
+  ✨ **Key Achievements:**
+  - ⚡ **40% faster job matching** than traditional methods
+  - 🔧 **15+ RESTful APIs** for seamless functionality
+  - ⏱️ **30% reduction** in recruiter screening time
+  - 👔 **Dual functionality** for both recruiters and job seekers
+  - 📊 **Real-time application tracking** system
+  
+  [![GitHub](https://img.shields.io/badge/📁_Source_Code-333?style=for-the-badge&logo=github)](https://your-github-link)
+</div>
+
+---
+
+### 🏆 Competition Victories & Recognition
 <div align="center">
-  <a href="https://portfolio-five-bice-37.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanuj8124&repo=portfolio&theme=tokyonight" />
-  </a>
+  
+  | 🥈 **Accenture Innovation Challenge** | 🏅 **Samsung Solve For Tomorrow** | 🥇 **Smart India Hackathon** |
+  |:---:|:---:|:---:|
+  | **Rank 2nd** out of 45,000+ teams | **Top 10 Finalist** (Rank 8) | **Winner** - ML Job Portal |
+  | *Top 0.004% globally* | *Top 0.02% nationwide* | *60% user reach boost* |
+  
 </div>
 
 ---
