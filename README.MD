@@ -16,7 +16,8 @@
 
 - 🌱 Currently mastering **Next.js** and exploring the React ecosystem
 - 💼 Open to exciting **full-stack development** opportunities
-- 💻 All of my projects live at **[My Portfolio](https://portfolio-five-bice-37.vercel.app/)**
+- 💼 All of my projects live at **[My Retro Win95 Portfolio](https://portfolio-five-bice-37.vercel.app/)** 🖥️✨
+- 🎮 **Experience the 90s nostalgia** - It's not just a portfolio, it's a journey back in time!
 - 💬 Let's talk about **React, Express.js, and modern web development**
 - 📫 Reach me at: **tanujkashyap8124@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!** ☕→💻
@@ -74,6 +75,26 @@ const backend = {
 ---
 
 ## 🌟 Featured Projects
+
+### 💻 Retro Portfolio - Windows 95 Experience
+<div align="left">
+  <img src="https://media.giphy.com/media/3oKIPf3C7HqqwvppjO/giphy.gif" width="80" align="right"/>
+  
+  **🚀 Tech Stack:** `React` `CSS3` `Retro UI/UX` `Responsive Design`
+  
+  ✨ **Nostalgic Experience:**
+  - 🖥️ **Authentic Windows 95 simulator** with classic desktop environment
+  - 📁 **Interactive file system** navigation and window management
+  - 🎨 **Pixel-perfect retro design** with nostalgic sound effects
+  - 📱 **Fully responsive** - works on all devices
+  - ⭐ **Unique portfolio presentation** that stands out from the crowd
+  
+  > **🎯 Don't miss this unique experience!** Step back into the 90s and explore my work in a fun, interactive way!
+  
+  [![🖥️ Experience Win95 Portfolio](https://img.shields.io/badge/🖥️_Experience_Win95_Portfolio-FF6B35?style=for-the-badge&logo=windows95)](https://portfolio-five-bice-37.vercel.app/) [![⭐ Must See!](https://img.shields.io/badge/⭐_MUST_SEE!-FFD700?style=for-the-badge)](https://portfolio-five-bice-37.vercel.app/)
+</div>
+
+---
 
 ### 🔬 Dr.Crop - AI-Powered Crop Disease Detection
 <div align="left">
@@ -148,7 +169,7 @@ const backend = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanuj-kashyap-716b2a207/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tanuj_8124)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujkashyap8124@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-five-bice-37.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🖥️_Win95_Portfolio-FF5722?style=for-the-badge&logo=windows&logoColor=white)](https://portfolio-five-bice-37.vercel.app/)
 
 </div>
 
