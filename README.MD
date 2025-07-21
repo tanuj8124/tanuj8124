@@ -25,13 +25,13 @@
 <!-- GitHub Stats & Profile Visits -->
 <h3 align="right">
     <a href="#-2" target="_blank" rel="noreferrer">
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark" alt="mondalsurojit" />
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj8124&theme=dark" alt="tanuj8124" />
     </a>
 </h3>
 
 <h3 align="left">
     <a href="#-2" target="_blank" rel="noreferrer">
-        <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
+        <img src="https://komarev.com/ghpvc/?username=tanuj8124&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
     </a>
 </h3>
 
@@ -117,20 +117,14 @@
         <tr>
             <th><a href="https://linkedin.com/in/surojitmondal" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a></th>
             <th><a href="https://instagram.com/surojit_mondal_memes" target="_blank"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="Instagram" height="34" width="34" /></a></th>
-            <th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="36" width="34" /></a></th>
+            <th><a href="mailto:tanujkashyap8124t@gmail.com?subject=From%20GitHub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="36" width="34" /></a></th>
         </tr>
     </thead>
 </table>
 <br>
 
 <!-- Badges Section -->
-<h2>Badges🎖️</h2>
-<details>
-    <summary><b>Holopin Badges 🦖</b></summary><br>
-    <a href="https://holopin.io/@mondalsurojit">
-        <img src="https://holopin.me/mondalsurojit" alt="Holopin Badges" />
-    </a>
-</details>
+
 <br>
 
 <details>
