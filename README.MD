@@ -1,25 +1,119 @@
-<h1 align="center">Hi 👋, I'm Tanuj Kashyap</h1>
-<h3 align="center">A passionate WEB developer from India</h3>
+# 👋 Hello World! I'm Tanuj Kashyap
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj8124&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj8124" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=A+Passionate+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanuj8124" alt="tanuj8124" /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 🌱 I’m currently learning **NEXT.js**
+---
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-bice-37.vercel.app/](https://portfolio-five-bice-37.vercel.app/)
+## 🚀 About Me
 
-- 💬 Ask me about **react and express**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 📫 How to reach me **tanujkashyap8124@gmail.com**
+- 🌱 Currently mastering **Next.js** and exploring the React ecosystem
+- 💼 Open to exciting **full-stack development** opportunities
+- 💻 All of my projects live at **[My Portfolio](https://portfolio-five-bice-37.vercel.app/)**
+- 💬 Let's talk about **React, Express.js, and modern web development**
+- 📫 Reach me at: **tanujkashyap8124@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code!** ☕→💻
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanuj-kashyap-716b2a207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanuj-kashyap-716b2a207/" height="30" width="40" /></a>
-<a href="https://instagram.com/tanuj_8124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanuj_8124" height="30" width="40" /></a>
-</p>
+<br clear="right"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanuj8124&show_icons=true&locale=en&layout=compact" alt="tanuj8124" /></p>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,javascript,typescript,html,css,tailwind,bootstrap" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,git,github,linux,python,cpp,arduino" />
+</div>
+
+### 🎯 What I'm Currently Working With:
+
+**Frontend Magic ✨**
+```javascript
+const frontend = {
+  frameworks: ['React', 'Next.js'],
+  styling: ['Tailwind CSS', 'Bootstrap', 'CSS3'],
+  languages: ['JavaScript', 'HTML5']
+}
+```
+
+**Backend Power ⚡**
+```javascript
+const backend = {
+  runtime: ['Node.js'],
+  frameworks: ['Express.js'],
+  databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
+  cloud: ['Firebase']
+}
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanuj8124&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuj8124&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj8124&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanuj8124&theme=tokyonight&row=1&column=7&margin-h=8&margin-w=8" alt="trophy" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://portfolio-five-bice-37.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanuj8124&repo=portfolio&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanuj-kashyap-716b2a207/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tanuj_8124)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujkashyap8124@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-five-bice-37.vercel.app/)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanuj8124&theme=tokyo-night&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanuj8124&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  ### 🎵 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy Coding!</b> Let's build something amazing together!</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
+</div>
